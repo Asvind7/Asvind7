@@ -8,10 +8,11 @@
 
 ## 🧠 About Me
 
-🎓 Final Year Student  
-🎨 Transitioning from Video Editing → 3D & Motion Graphics  
-💻 Building Adaptive Learning App (React + Python + HuggingFace)  
-🔥 Focused on Deep Work & Skill Mastery  
+🎨 Video Editor & 3D Artist with an Engineering foundation  
+🧠 I combine visual storytelling with structured technical thinking  
+💻 Currently building AI-driven web applications  
+🚀 Passionate about Creative Technology & Motion Design
+ 
 
 ---
 
