@@ -47,17 +47,12 @@
 
 ---
 
-## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asvind7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asvind7&layout=compact&theme=tokyonight&hide_border=true)
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=Asvind7&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Asvind7&theme=tokyonight)
-
----
 
 ## 🎯 2026 Goals
 
