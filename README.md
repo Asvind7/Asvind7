@@ -55,7 +55,7 @@
 
 ## 🏆 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=asvind7&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Asvind7&theme=tokyonight)
 
 ---
 
