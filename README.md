@@ -47,10 +47,13 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asvind7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?user=Asvind7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asvind7&layout=compact&theme=tokyonight&hide_border=true)
+### 📈 Top Languages
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?user=Asvind7&layout=compact&theme=tokyonight&hide_border=true)
 
+### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Asvind7&theme=tokyonight&hide_border=true)
 
 
