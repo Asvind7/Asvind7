@@ -30,21 +30,13 @@
 
 ---
 
-## 📊 Skill Progress
+## 📊 Skill Level
 
-### 💻 React
-![React](https://progress-bar.dev/75/?title=React&color=00F7FF)
+![React](https://img.shields.io/badge/React-75%25-00F7FF?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-70%25-FFD43B?style=for-the-badge&logo=python)
+![Blender](https://img.shields.io/badge/Blender-80%25-F5792A?style=for-the-badge&logo=blender)
+![Motion Design](https://img.shields.io/badge/Motion%20Design-78%25-FF4088?style=for-the-badge&logo=adobeaftereffects)
 
-### 🧠 Python
-![Python](https://progress-bar.dev/70/?title=Python&color=FFD43B)
-
-### 🎨 Blender
-![Blender](https://progress-bar.dev/80/?title=Blender&color=F5792A)
-
-### 🎬 Motion Graphics
-![Motion](https://progress-bar.dev/78/?title=Motion%20Design&color=FF4088)
-
----
 
 ## 🚀 Current Projects
 
