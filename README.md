@@ -66,10 +66,6 @@
 
 ---
 
-## 🌐 Connect
-
-LinkedIn: (add later)  
-Portfolio: (coming soon)
 
 ---
 
