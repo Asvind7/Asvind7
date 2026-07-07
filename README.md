@@ -54,8 +54,7 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asvind7&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Asvind7&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Asvind7&theme=github&hide_border=true)![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asvind7&theme=github)
 
 ## 🎯 2026 Goals
 
